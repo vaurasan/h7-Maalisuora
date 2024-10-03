@@ -28,11 +28,15 @@ Ohjelmointitaidot ovat kohtalaisen ruosteessa, joten käytän röyhkeästi apuna
 
 *3.10.2024 klo 13:01*
 
-Pikaisen vilkaisun jälkeen otan ensimmäisenä käsittelyyn Pythonin. Luon python tiedoston ``micro hello.py``. Kirjoitan tiedostoon: print("Heippa muailma") ja tallennan ``ctrl+s´´
+#### Python
+
+Pikaisen vilkaisun jälkeen otan ensimmäisenä käsittelyyn vanhan kunnon Pythonin. Luon python tiedoston ``micro hello.py``. Kirjoitan tiedostoon: print("Heippa muailma") ja tallennan ``ctrl+s´´
 
 Sitten ajetaan tiedosto ``python3 hello.py``
 
 ![heipyytton](https://github.com/user-attachments/assets/25690c00-06c7-4ca7-88cd-03ed3bb02727)
+
+#### Go
 
 Seuraavana tuo Go vaikuttaisi järkevältä. Täytyy ensin asentaa golang-go komennolla ``sudo apt-get -y install golang-go``, hetken rullauksen jälkeen ohjelma on asennettu.
 
@@ -52,8 +56,21 @@ Nyt kokeilen suoraan raa'asti ohjeen mukaan ``go mod init example/hello``
 
 ![gomodhel](https://github.com/user-attachments/assets/cba4a681-2ff6-41f2-abe4-caa0dcb2dc10)
 
+Teen "heippis":stä takaisin "heippis.go" tiedoston ``mv heippis heippis.go`` ja avaan sen microlla ``micro heippis.go``
 
+![taasgokoodi](https://github.com/user-attachments/assets/2270abb7-9617-4ae4-a465-a6daba297e1b)
 
+Taas tämä sama, eli
+
+- ensimmäisenä määritellään main paketti, paketti on ryhmä funktioita
+- tuodaan suosittu ftm paketti joka sisältää functioita joilla alustetaan tekstiä, kuten tulostetaan tekstiä konsoliin
+- käytetään main funktiota tulostamaan viesti konsoliin, main funktio suoritetaan oletuksena kun suoritetaan main paketti
+
+Ohjeen mukaan ajoin seuraavaksi ``go mod tidy``, tästä en ole varma oliko pakollinen vaihe. Seuraavaksi komennolla ``go run .`` sain ajettua tuon koodin oikein.
+
+![gotoimii](https://github.com/user-attachments/assets/ee7c2c0a-475b-4b0b-a289-21a799756815)
+
+#### C
 
 
 
