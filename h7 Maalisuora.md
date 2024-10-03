@@ -26,6 +26,35 @@ Oracle VirtualBox 7 - Debian 12 GNU/Linux bookworm<br>
 
 Ohjelmointitaidot ovat kohtalaisen ruosteessa, joten käytän röyhkeästi apuna Karvisen [Hello World Python3, Bash, C, C++, Go, Lua, Ruby, Java – Programming Languages on Ubuntu 18.04 ohjetta](https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/)
 
+*3.10.2024 klo 13:01*
+
+Pikaisen vilkaisun jälkeen otan ensimmäisenä käsittelyyn Pythonin. Luon python tiedoston ``micro hello.py``. Kirjoitan tiedostoon: print("Heippa muailma") ja tallennan ``ctrl+s´´
+
+Sitten ajetaan tiedosto ``python3 hello.py``
+
+![heipyytton](https://github.com/user-attachments/assets/25690c00-06c7-4ca7-88cd-03ed3bb02727)
+
+Seuraavana tuo Go vaikuttaisi järkevältä. Täytyy ensin asentaa golang-go komennolla ``sudo apt-get -y install golang-go``, hetken rullauksen jälkeen ohjelma on asennettu.
+
+Kokeilen luoda go-tiedoston ``micro heippis.go``, tiedostoon kirjoitan:
+
+![goheipatteksti](https://github.com/user-attachments/assets/330beac3-a5a8-489e-b489-3c44eba11eec)
+
+Kokeilen luoda "hei.go" tiedostoa tuon pohjalta komennolla ``go build -o heippis.go hei.go``, mutta ei onnistu. Veikkaan että johtuu alkuperäisen tiedoston nimestä ".go"-päätteellä kokeilen muuttaa "heippis.go" tiedoston --> "heippis"
+
+``mv heippis.go heippis``. Huomaan että olen tehnyt nämä suoraan /home/santeri kansioon, tämä ei vetele, joten teen "code/" kansion minne siirrän nämä. ``mkdir code``, ``mv heippis code/ mv hello.py code/``, ihme herjoja tuli, mutta tiedostot siirtyivät /code kansioon
+
+![codekansio](https://github.com/user-attachments/assets/1d60eaea-cd24-483d-9e7c-95b75cccfdb8)
+
+Ei pysty vieläkään käyttämään komentoa ``go build -o heippis heippis.go``, otetaanpa manuaali esille https://go.dev/doc/tutorial/getting-started#call.
+
+
+
+
+
+
+
+
 
 
 
@@ -49,6 +78,7 @@ Ohjelmointitaidot ovat kohtalaisen ruosteessa, joten käytän röyhkeästi apuna
 
 ## Lähteet
 
+Go Dev. Tutorial: Get started with Go. Luettavissa: https://go.dev/doc/tutorial/getting-started#call. Luettu 3.10.2024<br>
 Karvinen, T 2007. Shell Scripting. Luettavissa: https://terokarvinen.com/2007/12/04/shell-scripting-4/. Luettu 3.10.2024<br>
 Karvinen, T 2018. Hello World Python3, Bash, C, C++, Go, Lua, Ruby, Java – Programming Languages on Ubuntu 18.04. Luettavissa: https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/. Luettu 3.10.2024
 
