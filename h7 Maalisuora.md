@@ -34,6 +34,10 @@ Oracle VirtualBox 7 - Debian 12 GNU/Linux bookworm<br>
 
 
 
+## Lähteet
+
+
+---
 
 Tätä dokumenttia saa kopioida ja muokata GNU General Public License (versio 2 tai uudempi) mukaisesti. http://www.gnu.org/licenses/gpl.html<br>
 Pohjana Tero Karvinen 2012: Linux kurssi, http://terokarvinen.com<br><br>
