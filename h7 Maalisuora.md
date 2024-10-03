@@ -28,7 +28,7 @@ Ohjelmointitaidot ovat kohtalaisen ruosteessa, joten käytän röyhkeästi apuna
 
 *3.10.2024 klo 13:01*
 
-#### Python
+### Python
 
 Pikaisen vilkaisun jälkeen otan ensimmäisenä käsittelyyn vanhan kunnon Pythonin. Luon python tiedoston ``micro hello.py``. Kirjoitan tiedostoon: print("Heippa muailma") ja tallennan ``ctrl+s´´
 
@@ -36,7 +36,7 @@ Sitten ajetaan tiedosto ``python3 hello.py``
 
 ![heipyytton](https://github.com/user-attachments/assets/25690c00-06c7-4ca7-88cd-03ed3bb02727)
 
-#### Go
+### Go
 
 Seuraavana tuo Go vaikuttaisi järkevältä. Täytyy ensin asentaa golang-go komennolla ``sudo apt-get -y install golang-go``, hetken rullauksen jälkeen ohjelma on asennettu.
 
@@ -70,7 +70,17 @@ Ohjeen mukaan ajoin seuraavaksi ``go mod tidy``, tästä en ole varma oliko pako
 
 ![gotoimii](https://github.com/user-attachments/assets/ee7c2c0a-475b-4b0b-a289-21a799756815)
 
-#### C
+### C
+
+Tästäkään kielestä ei ole kokemusta, paitsi C# alkeita on joskus tullut opeteltua, joten ainakin Karvisen ohje on paikallaan. Katson syventäviä ohjeita vielä täältä: https://www.scaler.com/topics/c/how-to-compile-c-program-in-linux/
+
+``micro heitaas.c``, luon uuden c tiedoston, jonne kirjoitan:
+
+![ctiedosto](https://github.com/user-attachments/assets/e49bdea7-6b98-4795-9e72-c78d414f16b4)
+
+Täytyy vielä laatia .c-tiedostosta ohjelma ``gcc heitaas.c -o heitaasc``, nyt ohjelmaa voidaan ajaa komennolla ``./heitaasc``
+
+![cworks](https://github.com/user-attachments/assets/06476fd2-6dfb-4ae6-bdc4-a5ed11f300c5)
 
 
 
@@ -98,6 +108,7 @@ Ohjeen mukaan ajoin seuraavaksi ``go mod tidy``, tästä en ole varma oliko pako
 
 ## Lähteet
 
+Chandra, A. How to Compile C Program in Linux?. Luettavissa: https://www.scaler.com/topics/c/how-to-compile-c-program-in-linux/. Luettu 3.10.2024<br>
 Go Dev. Tutorial: Get started with Go. Luettavissa: https://go.dev/doc/tutorial/getting-started#call. Luettu 3.10.2024<br>
 Karvinen, T 2007. Shell Scripting. Luettavissa: https://terokarvinen.com/2007/12/04/shell-scripting-4/. Luettu 3.10.2024<br>
 Karvinen, T 2018. Hello World Python3, Bash, C, C++, Go, Lua, Ruby, Java – Programming Languages on Ubuntu 18.04. Luettavissa: https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/. Luettu 3.10.2024
