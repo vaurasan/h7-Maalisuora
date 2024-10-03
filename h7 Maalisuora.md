@@ -90,14 +90,19 @@ Täytyy vielä laatia .c-tiedostosta ohjelma ``gcc heitaas.c -o heitaasc``, nyt 
 
 Luen alkuun [Karvisen ohjeita aiheesta](https://terokarvinen.com/2007/12/04/shell-scripting-4/), vaikka tämä käytiin jo tunnilla läpi ja tein muistiinpanoja
 
-Olipa lyhyt ohje, yritän löytää pidemmän tekstin kuten tämä https://www.geeksforgeeks.org/shell-scripting-define-bin-bash/
+Olipa lyhyt ohje, homma tuli selväksi, mutta yritän löytää pidemmän tekstin jossa selitetään hieman teoriaa taustalla, kuten tämä https://www.geeksforgeeks.org/shell-scripting-define-bin-bash/
 
+*klo 13:56*
 
+Eipä siihen sen enempää kaiketi ohjeita tarvita. Luon code/ kansioon uuden tiedoston ``micro kukamita.sh`` ja kirjoitan seuraavaa:
 
+![binbashteksti](https://github.com/user-attachments/assets/8c3145dc-add8-4f7a-9d58-d7e87123fde9)
 
+Annan kaikille oikeudet suorittaa tiedosto komennolla ``chmod a+x kukamita.sh``, jonka jälkeen suoritetaan tiedosto komennolla ``bash kukamita.sh``
 
+![bashworksyes](https://github.com/user-attachments/assets/1f4a9956-25f7-4993-bc55-90077086dea2)
 
-
+*klo 13:59*
 
 ## c)
 
