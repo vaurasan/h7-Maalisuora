@@ -166,6 +166,8 @@ Laitoin oikeudet ``chmod -R 750 /var/www`` ja ``sudo chown -R santeri:santeri /v
 
 ![vikassh](https://github.com/user-attachments/assets/fbd50829-5910-4966-87dd-98a2b57bcb96)
 
+
+
 ### - h) Djangon lahjat
 #### - Asenna omalle käyttäjällesi Django-kehitysympäristö
 #### - Tee tietokantaan lista tekoälyistämme, jossa on nämä ominaisuudet
