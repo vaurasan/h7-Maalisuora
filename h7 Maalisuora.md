@@ -108,6 +108,61 @@ Annan kaikille oikeudet suorittaa tiedosto komennolla ``chmod a+x kukamita.sh``,
 
 #### Ratkaise vanha arvioitava laboratorioharjoitus soveltuvin osin
 
+Etsin sopivan laboratorioharjoituksen hakukentästä "lab" haulla
+
+![labhaku](https://github.com/user-attachments/assets/45dd2e30-a403-4555-8d1b-ff6d3723d568)
+
+Alimpana tuolla haulla löytyi järkevän oloinen [Final Lab for Linux Palvelimet 2024 Spring](https://terokarvinen.com/2024/arvioitava-laboratorioharjoitus-2024-linux-palvelimet/?fromSearch=lab) labraharjoitus
+
+Aloitan laboratorioharjoituksen d) kohdasta, sillä a-c on oikeaan koetilanteeseen tarkoitettuja asioita. Kirjoitan kuitenkin kohtuullisen täyttä raporttia näistäkin, koska aikaa riittää, vaikka tuon laboratorioharjoituksen tehtävänannossa sanotaan, että lähinnä testitulokset riittää
+
+### - d) 'howdy'
+
+#### - Tee kaikkien käyttäjien käyttöön komento 'howdy'
+#### - Tulosta haluamaasi ajankohtaista tietoa, esim päivämäärä, koneen osoite tms
+#### - Pelkkä "hei maailma" ei riitä
+#### - Komennon tulee toimia kaikilla käyttäjillä työhakemistosta riippumatta
+
+
+
+### - e) Etusivu uusiksi
+
+#### - Asenna Apache-weppipalvelin
+#### - Tee yrityksellemme "AI Kakone" kotisivu
+#### - Kotisivu tulee näkyä koneesi IP-osoitteella suoraan etusivulla
+#### - Sivua pitää päästä muokkaamaan normaalin käyttäjän oikeuksin (ilman sudoa). Liitä raporttiisi listaus tarvittavien tiedostojen ja kansioiden oikeuksista.
+
+
+
+
+### - g) Salattua hallintaa
+#### - Asenna ssh-palvelin
+#### - Tee uusi käyttäjä omalla nimelläsi, esim. minä tekisin "Tero Karvinen test", login name: "terote01"
+#### - Automatisoi ssh-kirjautuminen julkisen avaimen menetelmällä, niin että et tarvitse salasanoja, kun kirjaudut sisään. Voit käyttää kirjautumiseen localhost-osoitetta
+
+
+
+### - h) Djangon lahjat
+#### - Asenna omalle käyttäjällesi Django-kehitysympäristö
+#### - Tee tietokantaan lista tekoälyistämme, jossa on nämä ominaisuudet
+#### - Kirjautuminen salasanalla
+#### - Tietokannan muokkaus wepissä Djangon omalla ylläpitoliittymällä (Django admin)
+#### - Käyttäjä Erkille, jossa ei ole ylläpito-oikeuksia
+#### - Taulu Assistants, jossa jokaisella tietueella on nimi (name)
+#### - Jos haluat, voit lisäksi bonuksena laittaa mukaan kentän koko (size)
+
+
+### - h) Tuotantopropelli
+
+
+#### - Jos olet tässä kohdassa, olet kyllä työskennellyt todella nopeasti (tai sitten teet tätä tehtävää huviksesi kurssin jälkeen). Mutta älä huoli, tässä haastetta, jotta et joudu pyörittelemään peukaloita.
+#### - Tee tuotantotyyppinen asennus Djangosta
+#### - Laita Django-lahjatietokanta tuotantotyyppiseen asennukseen
+#### - Voit vaihtaa tämän sivun näkymään etusivulla staattisen sivun sijasta
+
+
+
+
 
 ## d)
 
