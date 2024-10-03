@@ -82,11 +82,7 @@ Täytyy vielä laatia .c-tiedostosta ohjelma ``gcc heitaas.c -o heitaasc``, nyt 
 
 ![cworks](https://github.com/user-attachments/assets/06476fd2-6dfb-4ae6-bdc4-a5ed11f300c5)
 
-
-
-
-
-
+*klo 13:40*
 
 ## b)
 
