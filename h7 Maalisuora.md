@@ -88,7 +88,11 @@ Täytyy vielä laatia .c-tiedostosta ohjelma ``gcc heitaas.c -o heitaasc``, nyt 
 
 #### Laita Linuxiin uusi komento niin, että kaikki käyttäjät voivat ajaa sitä
 
-Luen alkuun [Karvisen ohjeita aiheesta](https://terokarvinen.com/2007/12/04/shell-scripting-4/)
+Luen alkuun [Karvisen ohjeita aiheesta](https://terokarvinen.com/2007/12/04/shell-scripting-4/), vaikka tämä käytiin jo tunnilla läpi ja tein muistiinpanoja
+
+Olipa lyhyt ohje, yritän löytää pidemmän tekstin kuten tämä https://www.geeksforgeeks.org/shell-scripting-define-bin-bash/
+
+
 
 
 
@@ -109,6 +113,7 @@ Luen alkuun [Karvisen ohjeita aiheesta](https://terokarvinen.com/2007/12/04/shel
 ## Lähteet
 
 Chandra, A. How to Compile C Program in Linux?. Luettavissa: https://www.scaler.com/topics/c/how-to-compile-c-program-in-linux/. Luettu 3.10.2024<br>
+Geeksforgeeks. Shell Scripting – Define #!/bin/bash. Luettavissa: https://www.geeksforgeeks.org/shell-scripting-define-bin-bash/. Luettu 3.10.2024<br>
 Go Dev. Tutorial: Get started with Go. Luettavissa: https://go.dev/doc/tutorial/getting-started#call. Luettu 3.10.2024<br>
 Karvinen, T 2007. Shell Scripting. Luettavissa: https://terokarvinen.com/2007/12/04/shell-scripting-4/. Luettu 3.10.2024<br>
 Karvinen, T 2018. Hello World Python3, Bash, C, C++, Go, Lua, Ruby, Java – Programming Languages on Ubuntu 18.04. Luettavissa: https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/. Luettu 3.10.2024
