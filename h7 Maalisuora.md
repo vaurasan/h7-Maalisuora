@@ -114,7 +114,7 @@ Etsin sopivan laboratorioharjoituksen hakukentästä "lab" haulla
 
 Alimpana tuolla haulla löytyi järkevän oloinen [Final Lab for Linux Palvelimet 2024 Spring](https://terokarvinen.com/2024/arvioitava-laboratorioharjoitus-2024-linux-palvelimet/?fromSearch=lab) labraharjoitus
 
-Aloitan laboratorioharjoituksen d) kohdasta, sillä a-c on oikeaan koetilanteeseen tarkoitettuja asioita. Kirjoitan kuitenkin kohtuullisen täyttä raporttia näistäkin, koska aikaa riittää, vaikka tuon laboratorioharjoituksen tehtävänannossa sanotaan, että lähinnä testitulokset riittää
+Aloitan laboratorioharjoituksen d) kohdasta, sillä a-c on oikeaan koetilanteeseen tarkoitettuja asioita. Kirjoitan jonkun verran yksityiskohtaista raporttia, tai ainakin otan kuvia, vaikka tuon laboratorioharjoituksen tehtävänannossa sanotaan, että lähinnä testitulokset riittää
 
 Tietenkin vielä täytyy asentaa täysin uusi virtuaalikone tätä tehtävää varten, joten siinä menee hetki. Tein tämän jo kertaalleen hiljattain, joten pitäisi olla hyvässä muistissa asia, siitä en raportoi kuitenkaan, ellei tule mutkia matkaan. Laitan tällä kertaa virtuaalikoneeseen 6 ydintä ja 8GB muistia, koska niitä riittää
 
