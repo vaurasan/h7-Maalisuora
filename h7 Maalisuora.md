@@ -146,17 +146,25 @@ Laitoin oikeudet ``chmod -R 750 /var/www`` ja ``sudo chown -R santeri:santeri /v
 
 ![varjateeapache](https://github.com/user-attachments/assets/8d1a159f-6678-4194-9c3c-aef9d4029167)
 
+![htmlkakone](https://github.com/user-attachments/assets/4dcd070f-c63a-4902-9cee-2d1acecc307b)
 
+![conffikakone](https://github.com/user-attachments/assets/1f821e59-d44c-453d-96b5-b9b230146307)
 
+![sivukakone](https://github.com/user-attachments/assets/ae1c7703-a8d2-474d-8bbf-ada5e529e60c)
 
+### - g) Salattua hallintaa  127.0.0.1
 
-
-### - g) Salattua hallintaa
 #### - Asenna ssh-palvelin
 #### - Tee uusi käyttäjä omalla nimelläsi, esim. minä tekisin "Tero Karvinen test", login name: "terote01"
 #### - Automatisoi ssh-kirjautuminen julkisen avaimen menetelmällä, niin että et tarvitse salasanoja, kun kirjaudut sisään. Voit käyttää kirjautumiseen localhost-osoitetta
 
+``sudo apt-get install ssh``
 
+![ekasanterite](https://github.com/user-attachments/assets/28e04a32-5bdb-4a0d-903d-9e5a05e227df)
+
+![tokasssh](https://github.com/user-attachments/assets/b0a795bb-1bd6-48d6-9265-4448070139a9)
+
+![vikassh](https://github.com/user-attachments/assets/fbd50829-5910-4966-87dd-98a2b57bcb96)
 
 ### - h) Djangon lahjat
 #### - Asenna omalle käyttäjällesi Django-kehitysympäristö
