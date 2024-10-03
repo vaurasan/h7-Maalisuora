@@ -48,6 +48,9 @@ Kokeilen luoda "hei.go" tiedostoa tuon pohjalta komennolla ``go build -o heippis
 
 Ei pysty vieläkään käyttämään komentoa ``go build -o heippis heippis.go``, otetaanpa manuaali esille https://go.dev/doc/tutorial/getting-started#call.
 
+Nyt kokeilen suoraan raa'asti ohjeen mukaan ``go mod init example/hello``
+
+![gomodhel](https://github.com/user-attachments/assets/cba4a681-2ff6-41f2-abe4-caa0dcb2dc10)
 
 
 
