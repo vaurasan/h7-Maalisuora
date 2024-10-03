@@ -50,7 +50,7 @@ Kokeilen luoda "hei.go" tiedostoa tuon pohjalta komennolla ``go build -o heippis
 
 ![codekansio](https://github.com/user-attachments/assets/1d60eaea-cd24-483d-9e7c-95b75cccfdb8)
 
-Ei pysty vieläkään käyttämään komentoa ``go build -o heippis heippis.go``, otetaanpa manuaali esille https://go.dev/doc/tutorial/getting-started#call.
+*Älkööt välittäkö teroco/ kansiosta, nothing to see here* Ei pysty vieläkään käyttämään komentoa ``go build -o heippis heippis.go``, otetaanpa manuaali esille https://go.dev/doc/tutorial/getting-started#call.
 
 Nyt kokeilen suoraan raa'asti ohjeen mukaan ``go mod init example/hello``
 
