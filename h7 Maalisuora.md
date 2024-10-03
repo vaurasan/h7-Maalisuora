@@ -24,7 +24,7 @@ Oracle VirtualBox 7 - Debian 12 GNU/Linux bookworm<br>
 
 #### Kirjoita ja aja "Hei maailma" kolmella kielellä
 
-
+Ohjelmointitaidot ovat kohtalaisen ruosteessa, joten käytän röyhkeästi apuna Karvisen [Hello World Python3, Bash, C, C++, Go, Lua, Ruby, Java – Programming Languages on Ubuntu 18.04 ohjetta](https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/)
 
 
 
