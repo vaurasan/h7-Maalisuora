@@ -125,7 +125,15 @@ Tietenkin vielä täytyy asentaa täysin uusi virtuaalikone tätä tehtävää v
 #### - Pelkkä "hei maailma" ei riitä
 #### - Komennon tulee toimia kaikilla käyttäjillä työhakemistosta riippumatta
 
+*14:32*
 
+Loin howdy.sh ``micro howdy.sh`` ja sinne
+
+![bashsisaltaa](https://github.com/user-attachments/assets/23589740-b5fd-4c97-92ea-4c0867977b3f)
+
+![bashajettu](https://github.com/user-attachments/assets/fba4a4be-309b-4b15-a36a-3efc90353501)
+
+*klo 14:39*
 
 ### - e) Etusivu uusiksi
 
@@ -133,6 +141,12 @@ Tietenkin vielä täytyy asentaa täysin uusi virtuaalikone tätä tehtävää v
 #### - Tee yrityksellemme "AI Kakone" kotisivu
 #### - Kotisivu tulee näkyä koneesi IP-osoitteella suoraan etusivulla
 #### - Sivua pitää päästä muokkaamaan normaalin käyttäjän oikeuksin (ilman sudoa). Liitä raporttiisi listaus tarvittavien tiedostojen ja kansioiden oikeuksista.
+
+Laitoin oikeudet ``chmod -R 750 /var/www`` ja ``sudo chown -R santeri:santeri /var/www``
+
+![varjateeapache](https://github.com/user-attachments/assets/8d1a159f-6678-4194-9c3c-aef9d4029167)
+
+
 
 
 
