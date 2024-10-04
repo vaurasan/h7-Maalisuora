@@ -187,7 +187,11 @@ Tämmöistä sain tehtyä, en ole täysin varma oliko tässä kaikki mitä haett
 
 ![jankko1](https://github.com/user-attachments/assets/6b6d9cc8-9ac4-4767-994f-776d9d8d050d)
 
+---
+
 ![erkki](https://github.com/user-attachments/assets/0239056d-9a24-48ee-a1d0-e1c166f751cf)
+
+---
 
 ![assyt](https://github.com/user-attachments/assets/6f08f956-9b4b-4215-828b-04752e7e84f8)
 
