@@ -186,6 +186,11 @@ Lähden tekemään tätä ohjetta soveltaen https://terokarvinen.com/2022/django
 
 
 
+
+
+
+
+
 ### - h) Tuotantopropelli
 
 #### - Jos olet tässä kohdassa, olet kyllä työskennellyt todella nopeasti (tai sitten teet tätä tehtävää huviksesi kurssin jälkeen). Mutta älä huoli, tässä haastetta, jotta et joudu pyörittelemään peukaloita.
@@ -195,7 +200,7 @@ Lähden tekemään tätä ohjetta soveltaen https://terokarvinen.com/2022/django
 
 
 
-
+sana: sCr5WEwHk5y18FdtrSZ0
 
 ## d)
 
