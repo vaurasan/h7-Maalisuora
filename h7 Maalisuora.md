@@ -164,20 +164,13 @@ Katsoin ohjeita täältä: https://terokarvinen.com/2008/03/10/ssh-public-key-au
 
 ![ekasanterite](https://github.com/user-attachments/assets/28e04a32-5bdb-4a0d-903d-9e5a05e227df)
 
-``cd /home/santerite01/.ssh``, ``ssh-keygen -t dsa``
+``cd /home/santerite01/.ssh``
+
+``ssh-keygen -t dsa``
 
 ![keygentsa](https://github.com/user-attachments/assets/a6bb5260-e7c6-4615-ac72-471ef5ef6639)
 
 ![keygen-tehty](https://github.com/user-attachments/assets/47c03bfa-ae93-4101-904e-724bce626792)
-
-
-
-
-
-
-
-
-
 
 ### - h) Djangon lahjat
 #### - Asenna omalle käyttäjällesi Django-kehitysympäristö
@@ -188,9 +181,12 @@ Katsoin ohjeita täältä: https://terokarvinen.com/2008/03/10/ssh-public-key-au
 #### - Taulu Assistants, jossa jokaisella tietueella on nimi (name)
 #### - Jos haluat, voit lisäksi bonuksena laittaa mukaan kentän koko (size)
 
+Lähden tekemään tätä ohjetta soveltaen https://terokarvinen.com/2022/django-instant-crm-tutorial/
+
+
+
 
 ### - h) Tuotantopropelli
-
 
 #### - Jos olet tässä kohdassa, olet kyllä työskennellyt todella nopeasti (tai sitten teet tätä tehtävää huviksesi kurssin jälkeen). Mutta älä huoli, tässä haastetta, jotta et joudu pyörittelemään peukaloita.
 #### - Tee tuotantotyyppinen asennus Djangosta
