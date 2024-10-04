@@ -196,11 +196,6 @@ Tämmöistä sain tehtyä, en ole täysin varma oliko tässä kaikki mitä haett
 
 ![assyt](https://github.com/user-attachments/assets/6f08f956-9b4b-4215-828b-04752e7e84f8)
 
-
-
-
-
-
 ### - h) Tuotantopropelli
 
 #### - Jos olet tässä kohdassa, olet kyllä työskennellyt todella nopeasti (tai sitten teet tätä tehtävää huviksesi kurssin jälkeen). Mutta älä huoli, tässä haastetta, jotta et joudu pyörittelemään peukaloita.
@@ -210,13 +205,13 @@ Tämmöistä sain tehtyä, en ole täysin varma oliko tässä kaikki mitä haett
 
 
 
-sana: sCr5WEwHk5y18FdtrSZ0
+
 
 ## d)
 
 #### Asenna itsellesi tyhjä virtuaalikone arvioitavaa labraa varten. Suosittelen Debian 12-Bookworm amd64, riittävästi RAM ja kovalevyä. Koneella saa olla päivitetyt ohjelmistot (apt-get dist-upgrade) ja tulimuuri. Koneella ei saa olla mitään muita demoneja tai ohjelmia asennettuna kuin nuo ja asennuksen mukana tulevat. Virtuaalikoneella ei saa olla luottamuksellisia tiedostoja, koska opettaja saattaa tarkastella sitä
 
-
+sana: sCr5WEwHk5y18FdtrSZ0
 
 ## Lähteet
 
