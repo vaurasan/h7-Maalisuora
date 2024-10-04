@@ -189,7 +189,8 @@ Tämmöistä sain tehtyä, en ole täysin varma oliko tässä kaikki mitä haett
 
 ---
 
-![erkki](https://github.com/user-attachments/assets/0239056d-9a24-48ee-a1d0-e1c166f751cf)
+![erkki](https://github.com/user-attachments/assets/19cf97ed-9e94-48b9-bdcf-b93299df4fcf)
+
 
 ---
 
