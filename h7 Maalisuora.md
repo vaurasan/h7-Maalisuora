@@ -158,13 +158,24 @@ Laitoin oikeudet ``chmod -R 750 /var/www`` ja ``sudo chown -R santeri:santeri /v
 #### - Tee uusi käyttäjä omalla nimelläsi, esim. minä tekisin "Tero Karvinen test", login name: "terote01"
 #### - Automatisoi ssh-kirjautuminen julkisen avaimen menetelmällä, niin että et tarvitse salasanoja, kun kirjaudut sisään. Voit käyttää kirjautumiseen localhost-osoitetta
 
+Katsoin ohjeita täältä: https://terokarvinen.com/2008/03/10/ssh-public-key-authentication-2/?fromSearch=ssh
+
 ``sudo apt-get install ssh``
 
 ![ekasanterite](https://github.com/user-attachments/assets/28e04a32-5bdb-4a0d-903d-9e5a05e227df)
 
-![tokasssh](https://github.com/user-attachments/assets/b0a795bb-1bd6-48d6-9265-4448070139a9)
+``cd /home/santerite01/.ssh``, ``ssh-keygen -t dsa``
 
-![vikassh](https://github.com/user-attachments/assets/fbd50829-5910-4966-87dd-98a2b57bcb96)
+![keygentsa](https://github.com/user-attachments/assets/a6bb5260-e7c6-4615-ac72-471ef5ef6639)
+
+![keygen-tehty](https://github.com/user-attachments/assets/47c03bfa-ae93-4101-904e-724bce626792)
+
+
+
+
+
+
+
 
 
 
