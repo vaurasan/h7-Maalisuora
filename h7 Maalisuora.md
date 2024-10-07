@@ -207,7 +207,7 @@ Tämä ohje on kovassa käytössä tätä tehtäessä https://terokarvinen.com/2
 
 ![lahjatietokanta](https://github.com/user-attachments/assets/8d38393e-6335-4bad-b842-d966f6323be9)
 
-Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä
+Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä, viimeinen kohta tehtävästä jäi tekemättä
 
 
 
@@ -216,7 +216,7 @@ Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä
 
 #### Asenna itsellesi tyhjä virtuaalikone arvioitavaa labraa varten. Suosittelen Debian 12-Bookworm amd64, riittävästi RAM ja kovalevyä. Koneella saa olla päivitetyt ohjelmistot (apt-get dist-upgrade) ja tulimuuri. Koneella ei saa olla mitään muita demoneja tai ohjelmia asennettuna kuin nuo ja asennuksen mukana tulevat. Virtuaalikoneella ei saa olla luottamuksellisia tiedostoja, koska opettaja saattaa tarkastella sitä
 
-sana: sCr5WEwHk5y18FdtrSZ0
+
 
 ## Lähteet
 
