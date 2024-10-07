@@ -225,7 +225,7 @@ Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä, viim
 
 Tähän ohjeet alkavat olemaan jo päässä aika hyvin, mutta ohjeet asennukseen löytyvät täältä: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
-Ohjeen mukaan tästä ei tarvitse kirjoittaa raporttia, joten raportoin vain sen, että asennan ainoastaan tehtävänannossa sallitun tulimuurin ja päivitän kaiken ``sudo apt-get dist-upgrade``. Lisäksi haluan paremman resoluution, ja että voin kopioida asioita oman tietokoneen ja virtuaalikoneen välillä, joten asensin VBox Guest additionsin
+Tehtävänannon mukaan tästä ei tarvitse kirjoittaa raporttia, joten raportoin vain sen, että asennan ainoastaan tehtävänannossa sallitun tulimuurin ja päivitän kaiken ``sudo apt-get dist-upgrade``. Lisäksi haluan paremman resoluution, ja että voin kopioida asioita oman tietokoneen ja virtuaalikoneen välillä, joten asensin VBox Guest additionsin
 
 ![labrat](https://github.com/user-attachments/assets/fecae4ff-4c98-4d5e-a970-83f92dc41f15)
 
