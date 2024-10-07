@@ -108,7 +108,7 @@ Annan kaikille oikeudet suorittaa tiedosto komennolla ``chmod a+x kukamita.sh``,
 
 Ehdin jo poistaa tuon virtuaalikneen ja nyt asentelen laboratorioharjoitusta varten uutta. Tajusin, että tuo "kukamita.sh" piti vielä kopioida pääkäyttäjänä ``/usr/local/bin/`` kansioon
 
-Tämä olisi suoritettu komennolla ``sudo cp kukamita.sh /usr/local/bin/``
+Tämä olisi suoritettu komennolla ``sudo cp kukamita.sh /usr/local/bin/``]
 
 ## c)
 
