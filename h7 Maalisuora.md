@@ -141,6 +141,10 @@ Loin howdy.sh ``micro howdy.sh`` ja sinne
 
 *klo 14:39*
 
+[ *7.10.2024*
+
+Tässä tietenkin sama kopiointi jäi ajamatta, eli ``sudo cp howdy.sh /usr/local/bin/`` ]
+
 ### - e) Etusivu uusiksi
 
 #### - Asenna Apache-weppipalvelin
