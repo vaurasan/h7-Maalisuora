@@ -106,7 +106,7 @@ Annan kaikille oikeudet suorittaa tiedosto komennolla ``chmod a+x kukamita.sh``,
 
 [*7.10.2024*
 
-Ehdin jo poistaa tuon virtuaalikneen ja nyt asentelen laboratorioharjoitusta varten uutta. Tajusin, että tuo "kukamita.sh" piti vielä kopioida pääkäyttäjänä ``/usr/local/bin/`` kansioon
+Ehdin jo poistaa tuon virtuaalikoneen ja nyt asentelen laboratorioharjoitusta varten uutta. Tajusin, että tuo "kukamita.sh" piti vielä kopioida pääkäyttäjänä ``/usr/local/bin/`` kansioon
 
 Tämä olisi suoritettu komennolla ``sudo cp kukamita.sh /usr/local/bin/``]
 
