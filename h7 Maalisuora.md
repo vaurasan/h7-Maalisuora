@@ -104,7 +104,7 @@ Annan kaikille oikeudet suorittaa tiedosto komennolla ``chmod a+x kukamita.sh``,
 
 *klo 13:59*
 
-[*7.10.2024*
+[ *7.10.2024*
 
 Ehdin jo poistaa tuon virtuaalikoneen ja nyt asentelen laboratorioharjoitusta varten uutta. Tajusin, että tuo "kukamita.sh" piti vielä kopioida pääkäyttäjänä ``/usr/local/bin/`` kansioon
 
