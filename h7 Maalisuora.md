@@ -221,60 +221,13 @@ Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä, viim
 
 ## d)
 
-#### Asenna itsellesi tyhjä virtuaalikone arvioitavaa labraa varten. Suosittelen Debian 12-Bookworm amd64, riittävästi RAM ja kovalevyä. Koneella saa olla päivitetyt ohjelmistot (apt-get dist-upgrade) ja tulimuuri. Koneella ei saa olla mitään muita demoneja tai ohjelmia asennettuna kuin nuo ja asennuksen mukana tulevat. Virtuaalikoneella ei saa olla luottamuksellisia tiedostoja, koska opettaja saattaa tarkastella sitä
+#### Asenna itsellesi tyhjä virtuaalikone arvioitavaa labraa varten. Suosittelen Debian 12-Bookworm amd64, riittävästi RAM ja kovalevyä. Koneella saa olla päivitetyt ohjelmistot (apt-get dist-upgrade) ja tulimuuri. Koneella ei saa olla mitään muita demoneja tai ohjelmia asennettuna kuin nuo ja asennuksen mukana tulevat. Virtuaalikoneella ei saa olla luottamuksellisia tiedostoja, koska opettaja saattaa tarkastella sitä. [Update 2024-10-03 w40 Thu: Tästä d-osioista ei tarvitse kirjoittaa raporttia. Koneelle voi asentaa haluamansa graafisen käyttöliittymän oletusasetuksilla, suosittelen xfce-työpöytää.]
 
 Tähän ohjeet alkavat olemaan jo päässä aika hyvin, mutta ohjeet asennukseen löytyvät täältä: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
 ![asen1](https://github.com/user-attachments/assets/d6aa390b-f1da-4606-9c08-03a395982e58)
 
----
-
-Annetaan reilusti vääntöä koneelle niin jää enemmän aikaa ongelmanratkaisuun
-
-![hardware](https://github.com/user-attachments/assets/0d83a37f-6987-45b7-92f6-92e07eff24a5)
-
----
-
-60GB tallennustilaa riittänee enemmän kuin hyvin
-
-![harddisk](https://github.com/user-attachments/assets/e7fbee20-4458-4689-bd43-df74518bbb70)
-
----
-
-Nyt VirtualBoxissa näkyy juuri luotu LabRat, käynnistetään se tuplaklikkaamalla ja valitaan Boot menusta ylin vaihtoehto ``Live system (amd64)``
-
-![kaynnistus](https://github.com/user-attachments/assets/152e247e-975e-469f-bccb-ab429047c248)
-
----
-
-
-
-### Itse asennukseen
-
-Työpöydältä tuplaklikataan ``Install Debian`` kuvaketta ja painetaan ``Launch Anyway``
-
----
-
-![welcome](https://github.com/user-attachments/assets/61ffb99b-5523-4f27-8846-09d83d51ce1f)
-
-Käytettävyyden vuoksi kannattaa käyttää seuraavia asetuksia:
-
-- **Welcome** American English
-- **Location** Region - Europe, Zone - Helsinki
-- **Keyboard** Finnish - Default
-- **Partitions** Erase disk
-- **Users** Oma nimi, käyttäjänimi, tietokoneen nimi (tähän jotain ympäripyöreää mielellään, saattaa näkyä internetiin)
-
----
-
-![asentuu](https://github.com/user-attachments/assets/f81a9203-b19b-4797-b0a6-5528b87803de)
-
-Nyt on Debian asentumassa virtuaalikoneelle, joka kerta minulla on ollut sama ongelma noiden painikkeiden kanssa, tuossa kuvassa näkyy alhaalla kolme painiketta, joista keskimmäinen on kaiketi "Next", mitä painamalla ``Summary`` välilehdeltä painamalla asennus käynnistyi
-
----
-
-
-
+Ohjeen mukaan tästä ei tarvitse kirjoittaa raporttia, joten raportoin vain sen, että asennan ainoastaan tehtävänannossa sallitun tulimuurin ja päivitän kaiken ``sudo apt-get dist-upgrade``. Lisäksi haluan paremman resoluution, ja että voin kopioida asioita oman tietokoneen ja virtuaalikoneen välillä, joten asensin VBox Guest additionsin
 
 ## Lähteet
 
