@@ -203,6 +203,11 @@ Tämmöistä sain tehtyä, en ole täysin varma oliko tässä kaikki mitä haett
 #### - Laita Django-lahjatietokanta tuotantotyyppiseen asennukseen
 #### - Voit vaihtaa tämän sivun näkymään etusivulla staattisen sivun sijasta
 
+Tämä ohje on kovassa käytössä tätä tehtäessä https://terokarvinen.com/2022/deploy-django/
+
+![lahjatietokanta](https://github.com/user-attachments/assets/8d38393e-6335-4bad-b842-d966f6323be9)
+
+Kuvassa näkyy lahjatietokanta apachen pyörittämänä admin-näkymässä
 
 
 
