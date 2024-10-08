@@ -158,8 +158,6 @@ Laitoin oikeudet ``chmod -R 750 /var/www`` ja ``sudo chown -R santeri:santeri /v
 
 ![htmlkakone](https://github.com/user-attachments/assets/4dcd070f-c63a-4902-9cee-2d1acecc307b)
 
-![conffikakone](https://github.com/user-attachments/assets/1f821e59-d44c-453d-96b5-b9b230146307)
-
 ![sivukakone](https://github.com/user-attachments/assets/ae1c7703-a8d2-474d-8bbf-ada5e529e60c)
 
 ### - g) Salattua hallintaa  127.0.0.1
